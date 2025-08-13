@@ -7,3 +7,6 @@ git pull
 # git cherry-pick 
 git cherry-pick
 
+=======
+git push origin <branch-name>
+
