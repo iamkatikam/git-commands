@@ -12,3 +12,7 @@ git reset example
 git reset --soft HEAD~1
 git reset HEAD~2
 git reset --hard HEAD~3
+
+# git stash
+git stash
+git statsh pop
